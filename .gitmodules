@@ -1,0 +1,3 @@
+[submodule "doc-installation-elastic-stack"]
+	path = doc-installation-elastic-stack
+	url = https://github.com/JayJu/doc-installation-elastic-stack.git
